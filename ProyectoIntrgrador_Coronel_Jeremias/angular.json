@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "Portfolio-FrontEnd/ProyectoIntrgrador_Coronel_Jeremias/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "Portfolio-FrontEnd/ProyectoIntrgrador_Coronel_Jeremias/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -97,5 +100,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "1541b61a-3289-4d86-9ee8-a38d3f948e97"
   }
 }
